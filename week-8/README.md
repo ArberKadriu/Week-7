@@ -1,11 +1,7 @@
-# Week-7
+# Week-8
 
 Coding Steps:
-1.	Create a website using only HTML. The website can be anything you like (within school guidelines) as long as it meets the following criteria – website must contain:
-a.	At least 3 pages
-b.	Links to navigate between all pages present on each page
-c.	A list
-d.	3 images
-e.	2 different size headers
-f.	A table
-g.	A form
+1.	Style the website you made last week using CSS. Below are the requirements:
+a.	Use only external CSS file (no internal or inline styling)
+b.	Every element must be styled
+c.	Create style rules using class, id, and element selectors
